@@ -4,3 +4,7 @@ This is a raffle bot I originally made for Motorsport's KTM bike raffle. It incl
 The only files you'll have to make yourself are the `proxies.txt` and `emails.txt` files in the `data` folder. You'll have to propagate with their respective information. A database will created that adds the email to the SQL database that will be read from when you start your tasks.
 
 Additionally, you'll need a 2cap key to solve captchas for each task that you run.
+
+# License
+
+[MIT](https://choosealicense.com/licenses/mit/)
